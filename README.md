@@ -1,2 +1,2 @@
 # ShoppingAppMicroservices
-A microservice Projects for A shopping website
+A microservices Project for a shopping website
